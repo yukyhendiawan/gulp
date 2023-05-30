@@ -1,0 +1,1 @@
+{"version":3,"file":"secondary.js","names":["console","log"],"sources":["secondary.js"],"sourcesContent":["console.log('secondary');\nconsole.log('test');"],"mappings":";;AAAAA,OAAO,CAACC,GAAG,CAAC,WAAW,CAAC;AACxBD,OAAO,CAACC,GAAG,CAAC,MAAM,CAAC"}
